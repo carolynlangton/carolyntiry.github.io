@@ -30,50 +30,35 @@
     <div style="text-align:center">
     {% if site.author.github %}
       <a href="https://github.com/{{ site.author.github }}">
-        <span class="fa-stack fa-lg">
-          <i class="fa fa-square-o fa-stack-2x"></i>
-          <i class="fa fa-github-alt fa-stack-1x"></i>
-        </span>
+          <i class="fa fa-github-alt fa-stack-lg"></i>
       </a>
     {% endif %}
 
     {% if site.author.twitter %}
       <a href="https://twitter.com/{{ site.author.twitter }}">
-        <span class="fa-stack fa-lg">
-          <i class="fa fa-square-o fa-stack-2x"></i>
-          <i class="fa fa-twitter fa-stack-1x"></i>
-        </span>
+          <i class="fa fa-twitter fa-stack-lg"></i>
       </a>
     {% endif %}
 
     {% if site.author.linkedin %}
       <a href="https://linkedin.com/in/{{ site.author.linkedin }}">
-        <span class="fa-stack fa-lg">
-          <i class="fa fa-square-o fa-stack-2x"></i>
-          <i class="fa fa-linkedin fa-stack-1x"></i>
-        </span>
+          <i class="fa fa-linkedin fa-stack-lg"></i>
       </a>
     {% endif %}
 
     {% if site.author.goodreads %}
       <a href="https://goodreads.com/{{ site.author.goodreads }}">
-        <span class="fa-stack fa-lg">
-          <i class="fa fa-square-o fa-stack-2x"></i>
-          <i class="fa fa-book fa-stack-1x"></i>
-        </span>
+          <i class="fa fa-book fa-stack-lg"></i>
       </a>
     {% endif %}
 
     {% if site.author.email %}
       <a href="mailto:{{ site.author.email }}">
-        <span class="fa-stack fa-lg">
-          <i class="fa fa-square-o fa-stack-2x"></i>
-          <i class="fa fa-envelope fa-stack-1x"></i>
-        </span>
+          <i class="fa fa-envelope fa-stack-lg"></i>
       </a>
     {% endif %}
   </div>
-  
+
     <p>&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p>
   </div>
 </div>
