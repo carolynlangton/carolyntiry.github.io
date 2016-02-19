@@ -75,6 +75,11 @@ html {
   color: #fff;
 }
 
+.sidebar a:hover {
+  text-decoration: none;
+  color: #eee;
+}
+
 /* About section */
 .sidebar-about h1 {
   color: #fff;
