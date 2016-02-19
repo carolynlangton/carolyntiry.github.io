@@ -15,6 +15,11 @@ baseurl:          /
 author:
   name:           'Carolyn Tiry'
   url:            https://twitter.com/carolyntiry
+  email:          'carolyntiry[at]gmail[dot]com'
+  github:         carolyntiry
+  twitter:        carolyntiry
+  linkedin:       carolyntiry
+  goodreads:      carolyntiry
 
 paginate:         5
 
