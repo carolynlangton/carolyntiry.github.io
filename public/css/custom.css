@@ -1,3 +1,20 @@
 .social-media {
   margin: 15px 7px;
 }
+
+.resume-section {
+  font-size: .9em;
+}
+
+.resume-section h2 {
+  margin-bottom: -15px;
+  color: #90a959;
+}
+
+.resume-section h3 {
+  margin-bottom: 0px;
+}
+
+.resume-section ul {
+  margin-top: -10px;
+}
