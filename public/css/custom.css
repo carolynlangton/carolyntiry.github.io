@@ -1,5 +1,14 @@
-.social-media {
+#social-media {
+  text-align: center;
+}
+
+#social-media i {
   margin: 15px 7px;
+}
+
+#social-media a:hover {
+  text-decoration: none;
+  color: #000;
 }
 
 .resume-section {
@@ -18,3 +27,5 @@
 .resume-section ul {
   margin-top: -10px;
 }
+
+/* #517847; */

@@ -45,7 +45,6 @@ html {
   }
 }
 
-
 /*
  * Sidebar
  *
@@ -73,11 +72,6 @@ html {
 /* Sidebar links */
 .sidebar a {
   color: #fff;
-}
-
-.sidebar a:hover {
-  text-decoration: none;
-  color: #517847;
 }
 
 /* About section */
