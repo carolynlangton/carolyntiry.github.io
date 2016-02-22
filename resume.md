@@ -44,6 +44,8 @@ order: 2
 <hr>
 <div class="resume-section">
   <h2>Projects</h2>
+  <h3><a href="https://github.com/carolyntiry/library-inventory-app">Library inventory app</a></h3>
+    <p>A Windows desktop application that keeps track of the inventory in a library. Built with C#, WPF and Entity Framework in conjunction with two classmates for the Software Architecture class at Northcentral Technical College.</p>
 </div>
 <hr>
 <div class="resume-section">

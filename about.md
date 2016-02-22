@@ -4,7 +4,7 @@ title: About
 order: 1
 ---
 
-I'm a fourth-semester software developer student at [Northcentral Technical College](https://www.ntc.edu/) in Wausau, Wis.
+I'm a fourth-semester software developer student at [Northcentral Technical College](https://www.ntc.edu/programs-courses/all/associate-degrees/IT-software-developer) in Wausau, Wis.
 
 I used to be in the media industry (I worked as a reporter at a small daily newspaper), but after realizing that wasn't for me, I set out to remake myself into a software developer by taking classes at the local technical college.
 
