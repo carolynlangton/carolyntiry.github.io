@@ -27,7 +27,7 @@
       {% endfor %}
     </nav>
 
-    <div id="social-media" style="text-align:center">
+    <div id="social-media">
       {% if site.author.github %}
         <a href="https://github.com/{{ site.author.github }}" target="_blank">
             <i class="fa fa-github fa-lg"></i>
@@ -65,6 +65,6 @@
       {% endif %}
     </div>
 
-    <p>&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p>
+    <p id="copyright-tag">&copy; {{ site.time | date: '%Y' }} Carolyn Tiry</p>
   </div>
 </div>
