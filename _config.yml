@@ -8,14 +8,14 @@ permalink:        pretty
 
 # Setup
 title:            Carolyn Tiry
-tagline:
+tagline:          Developer
 description:      Coffee. Code. Repeat.
 url:              http://carolyntiry.github.io
 baseurl:          /
 
 author:
   name:           'Carolyn Tiry'
-  url:            https://twitter.com/carolyntiry
+  url:            carolyntiry.github.io
   email:          'carolyntiry[at]gmail[dot]com'
   github:         carolyntiry
   twitter:        carolyntiry
