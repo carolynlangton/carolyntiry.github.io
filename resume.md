@@ -50,13 +50,76 @@ order: 2
 <hr>
 <div class="resume-section">
   <h2>Skills</h2>
-  <h3>Languages</h3>
-    <p>C#, JavaScript, T-SQL, HTML, CSS</p>
-  <h3>Tools</h3>
-    <p>Visual Studio, Xamarin Studio, SQL Server Management Studio,
-    Git, Jira, SourceTree, Scrum</p>
-  <h3>Communication</h3>
-    <p>Writing, editing, technical writing</p>
+    <table>
+      <tr>
+        <th>Language</th>
+        <th>Level (years)</th>
+      </tr>
+      <tr>
+        <td>C#</td>
+        <td>Intermediate (2)</td>
+      </tr>
+      <tr>
+        <td>JavaScript</td>
+        <td>Intermediate (3)</td>
+      </tr>
+      <tr>
+        <td>T-SQL</td>
+        <td>Intermediate (2)</td>
+      </tr>
+      <tr>
+        <td>HTML</td>
+        <td>Intermediate (4)</td>
+      </tr>
+      <tr>
+        <td>CSS</td>
+        <td>Intermediate (4)</td>
+      </tr>
+      <tr>
+        <th>Tool</th>
+        <th>Level (years)</th>
+      </tr>
+      <tr>
+        <td>Visual Studio</td>
+        <td>Intermediate (2)</td>
+      </tr>
+      <tr>
+        <td>Xamarin Studio</td>
+        <td>Beginner (1)</td>
+      </tr>
+      <tr>
+        <td>SQL Server Management Studio</td>
+        <td>Intermediate (2)</td>
+      </tr>
+      <tr>
+        <td>Git</td>
+        <td>Intermediate (1)</td>
+      </tr>
+      <tr>
+        <td>Jira</td>
+        <td>Intermediate (1)</td>
+      </tr>
+      <tr>
+        <td>Scrum</td>
+        <td>Beginner (1)</td>
+      </tr>
+      <tr>
+        <th>Communication</th>
+        <th>Level (years)</th>
+      </tr>
+      <tr>
+        <td>Writing</td>
+        <td>Expert (8)</td>
+      </tr>
+      <tr>
+        <td>Editing</td>
+        <td>Advanced (5)</td>
+      </tr>
+      <tr>
+        <td>Technical writing</td>
+        <td>Intermediate (3)</td>
+      </tr>
+    </table>
 </div>
 <hr>
 <div class="resume-section">
