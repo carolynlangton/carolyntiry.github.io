@@ -2,6 +2,7 @@
 layout: page
 title: About
 order: 1
+show: true
 ---
 
 I'm a fourth-semester software developer student at [Northcentral Technical College](https://www.ntc.edu/programs-courses/all/associate-degrees/IT-software-developer) in Wausau, Wis.

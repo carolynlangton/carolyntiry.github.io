@@ -2,8 +2,10 @@
 layout: page
 title: Resume
 order: 2
+show: true
 ---
 <hr>
+
 <div class="resume-section">
   <h2>Experience</h2>
   <h3>Northcentral Technical College</h3>
@@ -41,13 +43,19 @@ order: 2
       <li>Edited and reviewed articles and wrote headlines</li>
     </ul>
 </div>
+
 <hr>
+
 <div class="resume-section">
   <h2>Projects</h2>
-  <h3><a href="https://github.com/carolyntiry/library-inventory-app">Library inventory app</a></h3>
+  <h3><a href="https://github.com/carolyntiry/library-inventory-app" target="_blank">Library inventory app</a></h3>
     <p>A Windows desktop application that keeps track of the inventory in a library. Built with C#, WPF and Entity Framework in conjunction with two classmates for the Software Architecture class at Northcentral Technical College.</p>
+  <h3><a href="{{ site.url }}/instruction-list">Programming tutorials for assignments</a></h3>
+    <p>Part of my duties as an instructional assistant at NTC was to write assignment instructions that doubled as tutorials for some of the software developer courses. Those courses include Object-Oriented Programming 2, Software Architecture, Database Design & SQL and Database Reporting.</p>
 </div>
+
 <hr>
+
 <div class="resume-section">
   <h2>Skills</h2>
     <table>
@@ -121,15 +129,19 @@ order: 2
       </tr>
     </table>
 </div>
+
 <hr>
+
 <div class="resume-section">
   <h2>Education</h2>
-  <h3>Northcentral Technical College</h3>
-    <p>Degree: Associate's<br>
-    Program: Software Developer</p>
   <h3>University of Wisconsin-Eau Claire</h3>
     <p>Degree: Bachelor of Arts<br>
     Major: Journalism<br>
     Minor: Web Design and Development</p>
+  <h3>Northcentral Technical College</h3>
+    <p>Degree: Associate's <em>(in progress)</em><br>
+    Program: Software Developer<br>
+    Anticipated graduation date: May 2016</p>
 </div>
+
 <hr>

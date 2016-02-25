@@ -2,6 +2,7 @@
 layout: page
 title: Archive
 order: 3
+show: true
 ---
 
 ## Blog Posts
