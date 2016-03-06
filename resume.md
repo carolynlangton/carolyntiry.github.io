@@ -48,12 +48,13 @@ show: true
 
 <div class="resume-section">
   <h2>Projects</h2>
+  Find more information about my projects on the <a href="{{site.url}}/projects">projects page</a>.
   <h3><a href="https://github.com/carolyntiry/library-inventory-app" target="_blank">Library inventory app</a></h3>
-    <p>A Windows desktop application that keeps track of the inventory in a library. Built with C#, WPF and Entity Framework in conjunction with two classmates for the Software Architecture class at Northcentral Technical College.</p>
+    <p>A Windows desktop application that keeps track of the inventory in a library.</p>
   <h3><a href="https://github.com/carolyntiry/shortcut-launcher" target="_blank">Shortcut launcher</a></h3>
-    <p>A Windows desktop application that launches web, folder, application and document shortcuts. Uses XML serialization to save and load shortcuts. Built with C# and WPF for the Object-Oriented Programming 2 class at Northcentral Technical College.</p>
+    <p>A Windows desktop application that launches web, folder, application and document shortcuts.</p>
   <h3><a href="{{ site.url }}/instruction-list">Programming tutorials for assignments</a></h3>
-    <p>Part of my duties as an instructional assistant at NTC was to write assignment instructions that doubled as tutorials for some of the software developer courses. Those courses include Object-Oriented Programming 2, Software Architecture, Database Design & SQL and Database Reporting.</p>
+    <p>Part of my duties as an instructional assistant at NTC was to write assignment instructions that doubled as tutorials for some of the software developer courses.</p>
 </div>
 
 <hr>
