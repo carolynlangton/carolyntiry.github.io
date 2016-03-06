@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Resume
-order: 2
+order: 3
 show: true
 ---
 <hr>
@@ -141,7 +141,7 @@ show: true
     Major: Journalism<br>
     Minor: Web Design and Development</p>
   <h3>Northcentral Technical College</h3>
-    <p>Degree: Associate's <em>(in progress)</em><br>
+    <p>Degree: Associate <em>(in progress)</em><br>
     Program: Software Developer<br>
     Anticipated graduation date: May 2016</p>
 </div>
