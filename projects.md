@@ -4,7 +4,7 @@ title: Projects
 order: 2
 show: true
 ---
-### [Library inventory app](https://github.com/carolyntiry/library-inventory-app)
+### [Library inventory manager](https://github.com/carolyntiry/library-inventory-app)
 This Windows desktop application allows users to enter data associated with a library, including books, individual copies of books, authors, genres, formats and members.
 
 It also allows both administrators and members to log in using encrypted credentials. In addition to data entry, administrators can check out and return books for members. Members can check out books and view their transaction history.
@@ -30,3 +30,10 @@ My responsibilities as an instructional assistant at Northcentral Technical Coll
 In addition, I have invented entire scenarios for assignments in three database classes &mdash; Database Concepts, Database Design & SQL and Database Reporting.
 
 Check out [some examples]({{ site.url }}/instruction-list) of assignments I've written.
+
+-----
+
+### [Movie reviewer app](https://github.com/carolyntiry/movie-reviewer-app)
+This simple mobile application allows the user to write movie reviews on the fly and save them locally using SQLite. It is available for both iOS and Android. It was written using Xamarin and Xamarin Forms for the Mobile Programming 1 class at Northcentral Technical College.
+
+Check out the [source code on GitHub](https://github.com/carolyntiry/movie-reviewer-app).

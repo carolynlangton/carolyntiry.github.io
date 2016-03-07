@@ -49,12 +49,14 @@ show: true
 <div class="resume-section">
   <h2>Projects</h2>
   Find more information about my projects on the <a href="{{site.url}}/projects">projects page</a>.
-  <h3><a href="https://github.com/carolyntiry/library-inventory-app" target="_blank">Library inventory app</a></h3>
+  <h3><a href="https://github.com/carolyntiry/library-inventory-app" target="_blank">Library inventory manager</a></h3>
     <p>A Windows desktop application that keeps track of the inventory in a library.</p>
   <h3><a href="https://github.com/carolyntiry/shortcut-launcher" target="_blank">Shortcut launcher</a></h3>
     <p>A Windows desktop application that launches web, folder, application and document shortcuts.</p>
   <h3><a href="{{ site.url }}/instruction-list">Programming tutorials for assignments</a></h3>
     <p>Part of my duties as an instructional assistant at NTC was to write assignment instructions that doubled as tutorials for some of the software developer courses.</p>
+  <h3><a href="https://github.com/carolyntiry/movie-reviewer-app" target="_blank">Movie reviewer app</a></h3>
+    <p>An Android and iOS mobile app for writing movie reviews on the fly.</p>
 </div>
 
 <hr>
