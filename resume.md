@@ -7,9 +7,9 @@ show: true
 <hr>
 
 <div class="resume-section">
-  <h2>Experience</h2>
+  <h2>IT-related experience</h2>
   <h3>Northcentral Technical College</h3>
-    <p>Instructional Assistant &bull; Jan 2015 &mdash; present<br>
+    <p>Instructional Assistant &bull; Wausau WI &bull; Jan 2015 &mdash; present<br>
     <em>Object-Oriented Programming 1 & 2, Software Architecture, Advanced .NET Programming,
     Database Concepts, Database Reporting, Database Design & SQL</em></p>
     <ul>
@@ -17,30 +17,6 @@ show: true
       <li>Edit existing course materials for clarity</li>
       <li>Tutor students through labs as needed and give help with assignments</li>
       <li>Provide support for online/remote students through collaborative software</li>
-    </ul>
-  <h3>CVS/pharmacy</h3>
-    <p>Clerk/cashier &bull; Aug 2013 &mdash; April 2015</p>
-    <ul>
-      <li>Interacted with customers daily while performing transactions and answering questions</li>
-      <li>Kept product and inventory information updated</li>
-    </ul>
-  <h3>Daily Herald Media</h3>
-    <p>Reporter &bull; June 2012 &mdash; Aug 2013</p>
-    <ul>
-      <li>Created weekly budgets, wrote stories daily</li>
-      <li>Shot and edited videos weekly</li>
-      <li>Handled unplanned work, such as breaking news</li>
-      <li>Worked effectively under daily, weekly and monthly deadlines</li>
-      <li>Interacted daily with members of the public during phone and in-person interviews</li>
-    </ul>
-  <h3>The Spectator</h3>
-    <p>Editor-in-Chief, Managing Editor, Copy Editor, Photographer &bull; Jan 2010 &mdash; May 2012</p>
-    <ul>
-      <li>Supervised day-to-day operations of the newspaper</li>
-      <li>Designed and laid out front page every other week</li>
-      <li>Helped develop stories and problem solve with reporters</li>
-      <li>Wrote 1-2 stories per issue for a variety of sections</li>
-      <li>Edited and reviewed articles and wrote headlines</li>
     </ul>
 </div>
 
@@ -150,3 +126,27 @@ show: true
 </div>
 
 <hr>
+
+<div class="resume-section">
+  <h2>Other experience</h2>
+  <h3>CVS/pharmacy</h3>
+    <p>Clerk/cashier &bull; Wausau WI &bull; Aug 2013 &mdash; April 2015</p>
+  <h3>Daily Herald Media</h3>
+    <p>Reporter &bull; Wausau WI &bull; June 2012 &mdash; Aug 2013</p>
+    <ul>
+      <li>Created weekly budgets, wrote stories daily</li>
+      <li>Shot and edited videos weekly</li>
+      <li>Handled unplanned work, such as breaking news</li>
+      <li>Worked effectively under daily, weekly and monthly deadlines</li>
+      <li>Interacted daily with members of the public during phone and in-person interviews</li>
+    </ul>
+  <h3>The Spectator</h3>
+    <p>Editor-in-Chief, Managing Editor, Copy Editor &bull; Eau Claire WI &bull; Jan 2010 &mdash; May 2012</p>
+    <ul>
+      <li>Supervised day-to-day operations of the newspaper</li>
+      <li>Designed and laid out front page every other week</li>
+      <li>Helped develop stories and problem solve with reporters</li>
+      <li>Wrote 1-2 stories per issue for a variety of sections</li>
+      <li>Edited and reviewed articles and wrote headlines</li>
+    </ul>
+</div>
